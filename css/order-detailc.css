@@ -1,0 +1,136 @@
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+	box-sizing: border-box;
+}
+
+.f_main{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #f7fff3;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: 1rem;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	
+}
+table {
+    
+    border-collapse: collapse;
+	width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+	border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td {
+    padding: 8px;
+    /* line-height: 1.42857143; */
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+
+tfoot {
+    display: table-footer-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+a{
+	color: #699352;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+	
+}
+
+body {
+    margin: 0;
+}
+
+.f_container {
+    /* padding-right: 15px; */
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	width: 1170px;
+}
+}
+
+.f_badge {
+    background-color: #dff0d8;
+}
+
+.bg-success{
+	display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #777;
+    border-radius: 10px;
+}
+
+.f_col-lg-6 {
+    width: 50%;
+	float: left;
+	position: relative;
+    left: 10px;
+}
+
+h2{
+	font-size: 30px;
+	margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.f_h6 {
+    font-size: 22px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
